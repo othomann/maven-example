@@ -1,2 +1,2 @@
 # maven-example
-Simple maven project that is defining a hello world servlet
+Simple maven project that is defining a hello world servlet. Triggers build
